@@ -1,0 +1,15 @@
+@import '../styles/global.scss';
+
+body {
+    width: 100%;
+    margin: auto;
+
+    .header-name {
+        margin-top: 30%;
+        text-align: center;
+
+        h1 {
+            color: var(--primary);
+        }
+    }
+}
